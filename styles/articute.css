@@ -228,6 +228,11 @@ main {
 .div-ten-years p {
     font-size: 1.5rem;
 }
+footer{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
 
 /* responsive style */
 /* Mobile devicese */
@@ -268,6 +273,7 @@ main {
     .feature-content .card{
         margin-right: 5px;
     }
+    
 }
 
 /* medium devices */
